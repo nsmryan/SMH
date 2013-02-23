@@ -1,3 +1,4 @@
+TODO
 add current code to git
 clean up GA interface
 run common ga problems to test
@@ -6,3 +7,11 @@ get reasonable example working
 RGEP problems test to verify implementation
 RGEP decision trees, regression, etc
 RGEP let expressions and stack operators
+
+
+for all operators-
+  individual
+  sequential over population
+  parallel over population
+
+
